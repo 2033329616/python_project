@@ -1,0 +1,5 @@
+
+ui图形界面有关的类模块
+translate翻译有关的类模块
+js调用计算文本tk值的模块(最后使用setuptools解决了transla里HandleJs包的问题!!!)
+main.py主函数
