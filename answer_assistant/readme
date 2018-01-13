@@ -4,4 +4,4 @@ screenshot.py是通过鼠标捕捉截图区域，并返回区域的坐标
 baiduocr.py对图像中的文字进行识别
 search.py将识别到的文字作为关键词，使用python的selenium库驱动谷歌浏览器进行搜索
 
-注意：chromedriver.exe文件要放到与谷歌浏览器的安装位置！
+注意：chromedriver.exe文件要放到谷歌浏览器的安装位置！
