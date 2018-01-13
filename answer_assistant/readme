@@ -1,1 +1,5 @@
 这个是一个对西瓜视频的百万英雄答题的辅助搜索工具
+screenshot.py、baiduocr.py、search.py是三个主文件
+screenshot.py是通过鼠标捕捉截图区域，并返回区域的坐标
+baiduocr.py对图像中的文字进行识别
+search.py将识别到的文字作为关键词，使用python的selenium库驱动浏览器进行搜索
